@@ -1,6 +1,6 @@
 # Flask Tutorial 
 
-Simple Flask application.
+Plotly with Flask application.
 
 # Prerequist
 
@@ -10,7 +10,7 @@ Simple Flask application.
 # Run App
 
 ```bash
-python3.6 hello.py
+python3.6 worldbank.py
 ```
 
 
